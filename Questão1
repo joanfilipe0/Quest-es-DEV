@@ -1,0 +1,2 @@
+Como o loop é executado enquanto K for menor que 13 e K começa em 0, o loop será executado para K = 1, 2, 3, ..., 12. Assim, a variável SOMA irá somar os valores de 1 + 2 + 3 + ... + 12.
+Portanto, o valor da variável SOMA será a soma dos números de 1 a 12, que é 78.
